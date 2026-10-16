@@ -106,7 +106,15 @@ An academic desktop application built with Java Swing and MySQL, featuring produ
 
 **Stack:** Java · Swing · JDBC · MySQL
 
-> Repository link can be added here when the project is published on GitHub.
+[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/Sales_Management_System)
+
+### Weather App  
+
+A Python based weather app which fetches data from an open source Weather API.  
+
+**Stack:** Python  
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/python_weather_app)
 
 ---
 
