@@ -161,19 +161,10 @@ Currently exploring and strengthening my skills in:
 
 <br/>
 
-<div align="center">
-
-**Interested in collaborating, building something interesting, or talking tech?**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nethumnenula)
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Build...;Learn...;Debug...;Repeat." alt="Build, Learn, Debug, Repeat" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" alt="" />
 
-</div>
 
 **BUILD • LEARN • DEBUG • REPEAT** 
 
