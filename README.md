@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="nethumnenula — Build, Learn, Debug, Repeat" />
+<!--<img src="assets/profile-banner.png" width="100%" alt="nethumnenula — Build, Learn, Debug, Repeat" />-->
 
 <br/>
 
