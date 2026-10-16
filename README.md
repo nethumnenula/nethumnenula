@@ -40,11 +40,11 @@ Hey! I'm an ICT undergraduate who enjoys building software and exploring how thi
 
 I work across desktop and web development, with experience in Java, JavaScript, databases, and full-stack application development. I'm currently expanding my knowledge into Python, cloud computing, AI/ML, and data science.
 
-- 🚗 Building **EasyPark**, a parking reservation platform
-- 🌐 Developing web applications with the MERN stack
-- ☕ Exploring object-oriented programming and software design
-- 🧠 Learning new technologies by building practical projects
-- ⚡ Fun fact: I enjoy debugging almost as much as building things. Almost.
+- Building **EasyPark**, a parking reservation platform
+- Developing web applications with the MERN stack
+- Exploring object-oriented programming and software design
+- Learning new technologies by building practical projects
+- Fun fact: I enjoy debugging almost as much as building things. Almost.
 
 ---
 
@@ -84,7 +84,7 @@ I work across desktop and web development, with experience in Java, JavaScript, 
 
 ## `ls ./projects`
 
-### 🚗 EasyPark — Parking Reservation Platform
+###  EasyPark — Parking Reservation Platform
 
 A team-based MERN application designed to let users find and book available parking spaces. The project includes authentication and booking-related functionality, with QR-based booking confirmation as a key feature.
 
@@ -92,7 +92,7 @@ A team-based MERN application designed to let users find and book available park
 
 [![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/Z-ombi-E/test_EasyPark)
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 
 A React-based portfolio built with Vite to showcase my work and development journey, with GitHub Pages deployment.
 
@@ -100,7 +100,7 @@ A React-based portfolio built with Vite to showcase my work and development jour
 
 [![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/portfolio_1)
 
-### ☕ Java Sales Management System
+###  Java Sales Management System
 
 An academic desktop application built with Java Swing and MySQL, featuring product and customer management, sales transactions, and invoice generation.
 
