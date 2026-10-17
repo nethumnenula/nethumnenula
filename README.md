@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=ICT+Undergraduate+%F0%9F%8E%93;Full-Stack+Developer+in+Progress;Turning+Ideas+Into+Working+Software;Learning.+Building.+Improving." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Developer;Turning+Ideas+Into+Working+Software;Learning.+Building.+Improving." alt="Animated introduction" />
 
 <br/>
 
