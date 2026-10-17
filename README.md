@@ -1,21 +1,11 @@
-<!--
-  PROFILE README
-  Repository: nethumnenula/nethumnenula
-  Banner: upload your generated banner to assets/profile-banner.png
--->
+ <div align="center">
 
-<div align="center">
-
-<!--<img src="assets/profile-banner.png" width="100%" alt="nethumnenula — Build, Learn, Debug, Repeat" />-->
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Developer;Turning+Ideas+Into+Working+Software;Learning.+Building.+Improving." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FF8C00&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Developer;Turning+Ideas+Into+Working+Software;Learning.+Building.+Improving." alt="Animated introduction" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-nethumnenula-181717?style=for-the-badge&logo=github)](https://github.com/nethumnenula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://nethumnenula.github.io/portfolio_1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF8C00?style=for-the-badge&logo=vercel&logoColor=white)](https://nethumnenula.github.io/portfolio_1/)
 
 </div>
 
@@ -40,11 +30,11 @@ Hey! I'm an ICT undergraduate who enjoys building software and exploring how thi
 
 I work across desktop and web development, with experience in Java, JavaScript, databases, and full-stack application development. I'm currently expanding my knowledge into Python, cloud computing, AI/ML, and data science.
 
-- Building **EasyPark**, a parking reservation platform
-- Developing web applications with the MERN stack
-- Exploring object-oriented programming and software design
-- Learning new technologies by building practical projects
-- Fun fact: I enjoy debugging almost as much as building things. Almost.
+-  Building **EasyPark**, a parking reservation platform
+-  Developing web applications with the MERN stack
+-  Exploring object-oriented programming and software design
+-  Learning new technologies by building practical projects
+-  Fun fact: I enjoy debugging almost as much as building things. Almost.
 
 ---
 
@@ -90,7 +80,7 @@ A team-based MERN application designed to let users find and book available park
 
 **Stack:** React · Node.js · Express.js · MongoDB · Mongoose
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/Z-ombi-E/test_EasyPark)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-FF8C00?style=flat-square&logo=github)](https://github.com/Z-ombi-E/test_EasyPark)
 
 ###  Personal Portfolio
 
@@ -98,7 +88,7 @@ A React-based portfolio built with Vite to showcase my work and development jour
 
 **Stack:** React · Vite · JavaScript · CSS
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/portfolio_1)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-FF8C00?style=flat-square&logo=github)](https://github.com/nethumnenula/portfolio_1)
 
 ###  Java Sales Management System
 
@@ -106,15 +96,15 @@ An academic desktop application built with Java Swing and MySQL, featuring produ
 
 **Stack:** Java · Swing · JDBC · MySQL
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/Sales_Management_System)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-FF8C00?style=flat-square&logo=github)](https://github.com/nethumnenula/Sales_Management_System)
 
-### Weather App  
+###  Weather App
 
-A Python based weather app which fetches data from an open source Weather API.  
+A Python-based weather application that fetches weather information from an external weather API.
 
-**Stack:** Python  
+**Stack:** Python · Weather API
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-7C3AED?style=flat-square&logo=github)](https://github.com/nethumnenula/python_weather_app)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-FF8C00?style=flat-square&logo=github)](https://github.com/nethumnenula/python_weather_app)
 
 ---
 
@@ -122,12 +112,12 @@ A Python based weather app which fetches data from an open source Weather API.
 
 Currently exploring and strengthening my skills in:
 
-- Python and Java Object-Oriented Programming
-- Cloud Computing and Deployment
-- Artificial Intelligence and Machine Learning
-- Data Science and Business Intelligence
-- Full Stack Development with MERN Stack
-- Cross-platform Mobile Development with React Native
+-  Python and object-oriented programming
+-  Cloud computing and deployment
+-  Artificial intelligence and machine learning
+-  Data science and business intelligence
+-  Full-stack development with the MERN stack
+-  Cross-platform mobile development with React Native
 
 ---
 
@@ -135,17 +125,13 @@ Currently exploring and strengthening my skills in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nethumnenula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=nethumnenula&show_icons=true&hide_border=true&icon_color=FF8C00&title_color=FF8C00&text_color=E6EDF3&bg_color=0D1117&rank_icon=github&card_width=400" height="180" alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethumnenula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethumnenula&layout=compact&hide_border=true&title_color=FF8C00&text_color=E6EDF3&bg_color=0D1117&langs_count=6&card_width=400" height="180" alt="Most Used Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethumnenula&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
-
-<br/>
-
-<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethumnenula&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethumnenula&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=9CA3AF&hide_border=true" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
@@ -157,14 +143,13 @@ Currently exploring and strengthening my skills in:
 
 **Interested in collaborating, building something interesting, or talking tech?**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nethumnenula)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nethumnenula)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=600&height=50&lines=Build...;Learn...;Debug...;Repeat." alt="Build, Learn, Debug, Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=FF8C00&center=true&vCenter=true&width=600&height=50&lines=Build...;Learn...;Debug...;Repeat." alt="Build, Learn, Debug, Repeat" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" alt="" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer" width="100%" alt="" />
 
 **BUILD • LEARN • DEBUG • REPEAT** 
 
