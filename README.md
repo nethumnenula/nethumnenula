@@ -1,8 +1,8 @@
  <div align="center">
 
- <div align="center">
+ <!--<div align="center">
   <img src="assets/profile-banner_2.png" width="100%" alt="nethumnenula — Build, Learn, Debug, Repeat" />
- </div>
+ </div>-->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=FF8C00&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Developer;Turning+Ideas+Into+Working+Software;Learning.+Building.+Improving." alt="Animated introduction" />
 
